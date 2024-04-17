@@ -28,10 +28,10 @@ var typewriter = new Typewriter(app, {
     loop: true
 });
 
-typewriter.typeString('Feliz Cumpleaños Dafne! Te quiero mucho!')
+typewriter.typeString('Feliz Cumpleaños Dani! Te mando un besillo jsjs!')
     .pauseFor(2500)
     .deleteAll()
-    .typeString('Dame Besitos')
+    .typeString('no sé que más poner :(')
     .pauseFor(2500)
     .deleteAll()
     .typeString('<strong>Porfi</strong>')
